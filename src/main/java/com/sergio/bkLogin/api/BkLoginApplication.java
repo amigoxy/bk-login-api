@@ -1,4 +1,4 @@
-package com.sergio.bkLogin;
+package com.sergio.bkLogin.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
